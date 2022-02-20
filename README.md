@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley-tarce&label=Profile%20views&color=0e75b6&style=flat" alt="stanley-tarce" /> </p>
 
-
-
-- 🔭 I’m currently working on **Stock App React**
-
 - 🌱 I’m currently learning **Redux, Django, OpenCV, TensorFlow, Python (again)**
 
 - 📫 How to reach me **stanleytarce18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/stantarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stantarce" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stanley-tarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanley-tarce" height="30" width="40" /></a>
 </p>
 
